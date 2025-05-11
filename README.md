@@ -35,9 +35,8 @@ Benvenuto nel mio Convertitore di Unità Multifunzione PyConverter, realizzato c
     * Apri un terminale o prompt dei comandi nella cartella del progetto.
     * Esegui lo script Python:
         ```bash
-        python nome_del_tuo_file.py
+        python main.py
         ```
-        *(Sostituisci `nome_del_tuo_file.py` con il nome effettivo del tuo file Python)*
 
 ## 🎮 Come Usare
 
